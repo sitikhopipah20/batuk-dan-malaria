@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Resep_Obat_Herbal</string>
+    <string name="judul">Batuk</string>
+    <string name="isi">
+
+    Batuk adalah respon alami dari tubuh sebagai sistem pertahanan untuk mengeluarkan zat dan partikel dari dalam saluran pernapasan, serta mencegah benda asing masuk ke saluran napas bawah.
+        \n\n
+    </string>
+
+</resources>
